@@ -1,0 +1,56 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.container {
+    background-color: rgb(154, 186, 175);
+    height: 400px;
+    width: 400px;
+    margin: auto;
+border: 2px solid rgb(10, 18, 10);
+box-sizing: border-box;
+padding-top: 50px;
+}
+.title{
+    margin-top: 5px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.name-el {
+width: 70%;
+margin-left: 40px;
+/* padding-left: 5px;
+padding-right: 5px;
+padding-top: 5px;
+padding-bottom: 5px; */
+padding: 5px;
+
+}
+
+.mail {
+width:70% ;
+margin-left:40px ;
+padding: 5px;
+}
+
+.pass {
+    width: 70%;
+    padding: 5px;
+    margin-left: 40px;
+}
+
+.chkbox {
+    margin-left: 40px;
+}
+
+.btn {
+    margin-left: 40px;
+    background-color: rgb(212, 199, 76);
+}
+
