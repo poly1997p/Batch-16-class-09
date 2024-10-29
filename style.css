@@ -3,6 +3,13 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+margin-top: 100px;
+border-radius: 10px;
+background-color: rgb(215, 199, 179);
 }
 
 
@@ -15,6 +22,9 @@
 border: 2px solid rgb(10, 18, 10);
 box-sizing: border-box;
 padding-top: 50px;
+border-radius: 10px;
+
+
 }
 .title{
     margin-top: 5px;
@@ -30,19 +40,21 @@ padding-right: 5px;
 padding-top: 5px;
 padding-bottom: 5px; */
 padding: 5px;
-
+border-radius: 10px;
 }
 
 .mail {
 width:70% ;
 margin-left:40px ;
 padding: 5px;
+border-radius: 10px;
 }
 
 .pass {
     width: 70%;
     padding: 5px;
     margin-left: 40px;
+    border-radius: 10px;
 }
 
 .chkbox {
@@ -50,7 +62,10 @@ padding: 5px;
 }
 
 .btn {
+    width: 70%;
     margin-left: 40px;
     background-color: rgb(212, 199, 76);
+    padding: 5px;
+    border-radius: 10px;
 }
 

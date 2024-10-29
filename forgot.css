@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(213, 133, 28);
+}
+
+.forgot {
+    background-color: black;
+    width: 600px;
+   height: 500px;
+    margin: auto;
+    padding-top: 30px;
+    box-sizing: border-box;
+border: 2px solid bisque;
+margin-top: 90px;
+border-radius: 10px;
+}
+
+.title{
+color: rgb(225, 135, 25);
+text-align: center;
+}
+
+.ptag {
+   color: aliceblue;
+margin: 20px;
+}
+
+.mail{
+    padding: 10px;
+    margin-top: 30px;
+   margin-left: 100px;
+   width: 60%;
+   border-radius: 10px;
+}
+  
+.submit {
+    margin-left: 17%;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.reset {
+    border-radius: 5px;
+    width: 120px;
+  background-color: aquamarine;
+  padding: 5px;
+}
+
+.link {
+margin-left: 100px;
+font-size: 20px;
+color: aquamarine;
+}

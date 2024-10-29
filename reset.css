@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: bisque;
+}
+.title {
+    text-align: center;
+    background-color: rgb(167, 114, 215);
+}
+
+.reset {
+    background-color: rgb(202, 166, 166);
+    height: 400px;
+    width: 400px;
+    margin: auto;
+    margin-top: 90px;
+    border-radius: 10px;
+}
+
+.npass {
+    
+    margin-left: 10%;
+    width: 70%;
+    padding: 2%;
+    border-radius: 5px;
+    
+}
+
+.cpass {
+    margin-left: 10%;
+    width: 70%;
+    padding: 2%;
+    border-radius: 5px;
+}
+
+.btn {
+    margin-left: 25%;
+    border-radius: 5px;
+    padding: 2%;
+    background-color: aquamarine;
+}
+
+.cancel {
+    color: rgb(226, 226, 240);
+    background-color: blue;
+    padding: 1%;
+}

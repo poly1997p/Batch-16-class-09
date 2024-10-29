@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(193, 170, 93);
+    margin-top: 100px;
+}
+
+
+.head {
+    background-color: bisque;
+  text-align: center;
+  border-radius: 10px;
+}
+.contain{
+    height: 600px;
+    width: 400px;
+    background-color: rgb(119, 119, 179);
+    margin: auto;
+    border-radius: 10px;
+    box-sizing: border-box;
+    border: 2px solid black;
+}
+.name {
+   margin-left: 30px;
+   width: 80%;
+   padding: 5px;
+   border-radius: 9px;
+}
+.mail {
+    margin-left: 30px;
+    width: 80%;
+    padding: 5px; 
+    border-radius: 9px; 
+}
+
+.password {
+    margin-left: 30px;
+    width: 80%;
+    padding: 5px; 
+    border-radius: 9px; 
+}
+
+.gender{
+    margin-left: 35px;
+}
+
+.blood{
+    margin-left: 35px;
+}
+
+.date{
+    margin-left: 35px;
+}
+
+.country{
+    margin-left: 35px;
+}
+
+.check{
+    margin-left: 35px;
+}
+
+.btn{
+    margin-left: 60px;
+    height: 30px;
+    width: 60%;
+    border-radius: 14px;
+    background-color: aquamarine;
+}
+
+.bold {
+    margin-left: 70px;
+}
