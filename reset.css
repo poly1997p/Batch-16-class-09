@@ -9,10 +9,11 @@ body {
 .title {
     text-align: center;
     background-color: rgb(167, 114, 215);
+    border-radius: 9px;
 }
 
 .reset {
-    background-color: rgb(202, 166, 166);
+    background-color: rgb(211, 200, 200);
     height: 400px;
     width: 400px;
     margin: auto;
@@ -37,14 +38,21 @@ body {
 }
 
 .btn {
-    margin-left: 25%;
+    width: 40%;
+    margin-left: 40px;
     border-radius: 5px;
-    padding: 2%;
+    padding: 1%;
     background-color: aquamarine;
 }
 
 .cancel {
+   
     color: rgb(226, 226, 240);
-    background-color: blue;
+    background-color: rgb(168, 91, 231);
     padding: 1%;
+    border-radius: 5px;
+}
+
+.ptag{
+    margin-left: 30px;
 }
